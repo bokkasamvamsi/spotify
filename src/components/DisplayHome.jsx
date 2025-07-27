@@ -3,7 +3,7 @@ import Navbar from './Navbar'
 import { albumsData } from '../assets/assets.js' 
 import{songsData} from '../assets/assets.js'
 import Albumitem from './Albumitem';
-import SongItem from './Songitem';
+import SongItem from './SongItem';
 const DisplayHome = () => {
     return (
         <>
